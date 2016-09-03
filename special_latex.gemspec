@@ -12,4 +12,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "rspec"
+  spec.homepage = "https://github.com/cpancake/special_latex"
 end
